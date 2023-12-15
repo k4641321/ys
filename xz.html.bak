@@ -1,0 +1,12 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta=UTF-8>
+<title>原神，启动！</title>
+<link rel="stylesheet" type="text/css" href="./css/xz.css">
+</head>
+<body>
+<p>是否启动原神？</p>
+<button>是</button><button>必须启动</button><button>启动！</button>
+</body>
+</html>
