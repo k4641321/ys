@@ -1,0 +1,40 @@
+.ysbt{
+    position:center;
+    text-align:center;
+    font-size:100px;
+    font-weight:bold;
+    color:rgb(105, 105, 105);
+}
+button{
+    border:solid;
+    border-color:rgb(220, 220, 220);
+    border-width:5px;
+    width:150px;
+    height:100px;
+    font-size:25px;
+    background-color:rgb(0, 204, 255);
+    color:white;
+    position:center;
+    border-radius: 15px;
+    display: inline;
+    font-weight:bold;
+    margin:20px;
+}
+.a{
+    margin-left:500px;
+}
+
+.bg{
+    background-color:rgb(245, 245, 245);  
+    display: inline;
+}
+#imgm{
+  opacity: 0;
+  transition: opacity 2s ease-in-out;
+}
+#imgm.show{
+  opacity: 1;
+}
+#imgm.hide{
+  opacity: 0;
+}
